@@ -1,9 +1,9 @@
-'[
+[
     {
         "bookTitle": "হাবলুদের জন্য প্রোগ্রামিং",
         "author": "ঝংকার মাহবুব",
         "MPrice": "TK. 300",
-        "price": "TK. 300 TK. 225",
+        "price": " TK. 225",
         "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/00ea58560_112222.jpg",
         "rating": "(538)"
     },
@@ -11,7 +11,7 @@
         "bookTitle": "রিচার্জ ইয়োর ডাউন ব্যাটারি",
         "author": "ঝংকার মাহবুব",
         "MPrice": "TK. 300",
-        "price": "TK. 300 TK. 225",
+        "price": " TK. 225",
         "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/34eff29de_155900.jpg",
         "rating": "(454)"
     },
@@ -19,7 +19,7 @@
         "bookTitle": "প্রোগ্রামিংয়ের বলদ টু বস",
         "author": "ঝংকার মাহবুব",
         "MPrice": "TK. 300",
-        "price": "TK. 300 TK. 225",
+        "price": "TK. 225",
         "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/95512cdf1cf4_128993.jpg",
         "rating": "(268)"
     },
@@ -27,7 +27,7 @@
         "bookTitle": "প্যারাময় লাইফের প্যারাসিটামল",
         "author": "ঝংকার মাহবুব",
         "MPrice": "TK. 320",
-        "price": "TK. 320 TK. 240",
+        "price": "TK. 240",
         "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/5009d71f2_177431.jpg",
         "rating": "(411)"
     },
@@ -266,4 +266,4 @@
         "price": "TK. 1,080 TK. 810",
         "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/ea67c6b5f_203100.jpg"
     }
-]'
+]
