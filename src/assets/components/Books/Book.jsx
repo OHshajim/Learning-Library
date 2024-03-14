@@ -1,4 +1,5 @@
-import React from 'react';
+import PropTypes from 'prop-types'; // ES6
+
 
 const Book = ({book,handlePurchase}) => {
     const {author,bookTitle,img,MPrice,rating} = book
@@ -17,5 +18,8 @@ const Book = ({book,handlePurchase}) => {
         </div>
     );
 };
-
+Book.propTypes={
+    book : PropTypes.object.isRequired ,
+    handlePurchase : PropTypes.func.isRequired
+}
 export default Book;
